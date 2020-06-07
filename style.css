@@ -1,0 +1,71 @@
+.img-1{
+    margin-top:100px;
+    height:700px;
+    width:1000px;
+    position: relative;
+    right:220px;
+}
+body{
+    margin:0;
+}
+h1{
+    position:relative;
+    right:200px;
+    font-size:40px;
+    font-family:'Oswald', sans-serif ;
+}
+p{
+    font-size:20px;
+    font-weight:600;
+    margin-top:200px;
+}
+.heading-1{
+    position: relative;
+    left:900px;
+}
+.heading-1:hover{
+    background-color: coral;
+    color: gold;
+}
+a{
+    color: aquamarine;
+}
+.heading-3{
+    position: relative;
+    left:900px;
+    color:lightsalmon;
+}
+.heading-3:hover{
+    background-color:red;
+    color:yellow;
+}
+.heading-5{
+    text-align: center;
+}
+.heading-6:hover{
+    background-color: seagreen;
+    color: sienna;
+}
+.heading-6{
+    position: relative;
+    left:900px;
+    color:indigo;
+}
+.heading-7:hover{
+    background-color: white;
+    color: purple;
+}
+.heading-7{
+    position: relative;
+    left:900px;
+    color: sandybrown;
+}
+.heading-8:hover{
+    background-color:black;
+    color:white;
+}
+.heading-8{
+    position: relative;
+    left:900px;
+    color: blue;
+}
